@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e967d1d8-80a1-4b93-8eb4-56799f24b121" name="Changes" comment="" />
+    <list default="true" id="e967d1d8-80a1-4b93-8eb4-56799f24b121" name="Changes" comment="Desafios Dio - GFT">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetoBanco/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetoBanco/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetoBanco/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetoBanco/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetoBanco/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetoBanco/Iconta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjetoBanco/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioDioBanco.iml" beforeDir="false" afterPath="$PROJECT_DIR$/desafioDioBanco.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28dOuTDYU95mPKCXhWlIOtFdgpk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +54,37 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/acer/Desktop/Programação/Variaveis_Intellij/DesafioDioBanco"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ProjetoBanco" />
+      <recent name="Banco" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProjetoBanco.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjetoBanco.Main" />
+      <module name="desafioDioBanco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProjetoBanco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProjetoBanco.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,6 +94,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651543221967</updated>
     </task>
+    <task id="LOCAL-00001" summary="Desafios Dio - GFT">
+      <created>1651543345447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651543345447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -40,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafios Dio - GFT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios Dio - GFT" />
   </component>
 </project>
